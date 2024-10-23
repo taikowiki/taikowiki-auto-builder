@@ -1,0 +1,22 @@
+{
+  "name": "taikowiki-auto-builder",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taikowiki/taikowiki-auto-builder.git"
+  },
+  "author": "hotsixman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taikowiki/taikowiki-auto-builder/issues"
+  },
+  "homepage": "https://github.com/taikowiki/taikowiki-auto-builder#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.7.9"
+  }
+}
